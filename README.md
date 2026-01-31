@@ -1,0 +1,2 @@
+# Early-Game-Advantage-Predicting-League-of-Legends-Match-Outcomes
+This project utilizes machine learning to predict the outcome of League of Legends matches based solely on performance data from the first ten minutes of gameplay. By analyzing early-game indicators such as gold difference, (Kills, Deaths, Assists), and objective control, the model identifies which factors are most predictive of eventual victory.
